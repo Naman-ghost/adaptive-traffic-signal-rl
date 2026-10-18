@@ -168,5 +168,9 @@ intersections (parameter sharing). 600 episodes per scenario, same training seed
 - Explicit multi-agent coordination (shared reward, communication, offsets for green waves).
 - Turning movements, lane geometry and a SUMO/TraCI integration with real demand.
 - A reward term for individual maximum wait.
+
+
+**Author**
+Naman Singh
 - Multi-seed DQN runs with hyperparameter tuning.
 - A single policy that generalises across scenarios.
