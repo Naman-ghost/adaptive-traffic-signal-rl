@@ -1,0 +1,13 @@
+stage,variant,scenario,pct_decisions_in_unvisited_states
+1,q_learning,low,0.0
+1,q_learning,medium,0.02
+1,q_learning,high,0.0
+1,q_learning,rush_hour,0.04
+2,q_local,low,1.673
+2,q_local,medium,0.035
+2,q_local,high,0.005
+2,q_local,rush_hour,0.0
+2,q_neighbour,low,3.368
+2,q_neighbour,medium,0.445
+2,q_neighbour,high,0.44
+2,q_neighbour,rush_hour,0.33
