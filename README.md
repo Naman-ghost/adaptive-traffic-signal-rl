@@ -172,5 +172,5 @@ intersections (parameter sharing). 600 episodes per scenario, same training seed
 - A single policy that generalises across scenarios.
 
 
-**Author**
+##Author
 - Naman Singh
